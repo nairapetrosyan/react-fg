@@ -1,0 +1,14 @@
+{
+  "name": "nairapetrosyan-react-fg",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-flexbox-grid": "2.1.0",
+    "react-router": "5.2.0",
+    "react-router-dom": "5.2.0"
+  }
+}
